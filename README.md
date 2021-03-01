@@ -2,10 +2,12 @@
 
 This is a collection of Greasemonkey scripts that I've made:
 
-* **[Facebook Minimal](./Facebook%20Minimal.user.js)**
+* **[Facebook Minimal](./scripts/Facebook%20Minimal.user.js)**
 
     Hide a lot of (in my opinion) unnecessary Facebook features.
 
-* **[Notion Styles](./Notion%20Styles.user.js)**
+    ![](./preview/Facebook%20Minimal.png)
+
+* **[Notion Styles](./scripts/Notion%20Styles.user.js)**
 
     Change your Notion default font.
