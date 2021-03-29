@@ -15,6 +15,7 @@ const boldHeaders = true; // Whether you want the headers to be bold or not.
 
 GM_addStyle(`
     .notion-frame .notion-selectable,
+    .notion-page-content,
     div[placeholder="Heading 1"],
     div[placeholder="Heading 2"],
     div[placeholder="Heading 3"] {
